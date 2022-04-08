@@ -1,21 +1,28 @@
+body {
+  margin: 0;
+}
+
 h1 {
-  font-family: "Open Sans";
-  font-style: normal;
+  font-family: "Open Sans", sans-serif;
   font-weight: 700;
   font-size: 16px;
-  line-height: 5px;
+  line-height: 50px;
+  text-align: center;
+  text-transform: uppercase;
+  margin: 0;
   background: var(--background-color-header);
+  color: #193251;
 }
 
 nav {
-  background-color: var(--background-color-header);
   display: flex;
   justify-content: space-around;
-  gap: 0px;
+  margin: 5px;
+  padding: 0px;
+  border-radius: 10px;
   box-shadow: var(--box-shadow);
 }
 
-button {
-  padding: 15px;
-  margin: 5px;
+img {
+  width: 30px;
 }
