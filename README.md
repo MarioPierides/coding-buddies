@@ -15,7 +15,7 @@
 #### Folder Structure
 
 - design-system
-  - component folders CSS
+- component folders CSS
 - images
 - src
 
