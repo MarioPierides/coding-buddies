@@ -8,7 +8,7 @@
 
 - just in case: - components--modifier-initials letter from creators
 
-  - `example: marginals--buttons-mp-k`
+- `example: marginals--buttons-mp-k`
 
 ### Structure in VSC
 
