@@ -3,5 +3,19 @@ h1 {
   font-style: normal;
   font-weight: 700;
   font-size: 16px;
-  line-height: 18px;
+  line-height: 5px;
+  background: var(--background-color-header);
+}
+
+nav {
+  background-color: var(--background-color-header);
+  display: flex;
+  justify-content: space-around;
+  gap: 0px;
+  box-shadow: var(--box-shadow);
+}
+
+button {
+  padding: 15px;
+  margin: 5px;
 }

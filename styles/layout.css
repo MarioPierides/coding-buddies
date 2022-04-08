@@ -1,0 +1,9 @@
+.mobile-grid {
+  height: 100vh;
+  display: grid;
+  grid-template-rows: 56px auto 56px;
+}
+
+.content {
+  overflow-y: auto;
+}
