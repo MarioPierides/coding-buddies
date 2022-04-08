@@ -8,17 +8,17 @@
 
 - just in case: - components--modifier-initials letter from creators
 
-  - example: marginals--buttons-mp+k
+- `example: marginals--buttons-mp-k`
 
 ### Structure in VSC
 
 #### Folder Structure
 
 - design-system
-  - component folders CSS
+- component folders CSS
 - images
 - src
 
 ### Variable names
 
--
+- `--scope__value--apendix`

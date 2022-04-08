@@ -1,0 +1,25 @@
+:root {
+  /*colors*/
+  --background-color-header: #f8f8f8;
+  --background-color-button-100: #ff5a36;
+  --background-color-button-75: #ff9c86;
+  --background-color-button-50: #ffbdaf;
+  --background-color-button-25: #ffded7;
+
+  --color-text-elemts-graph: #193251;
+  --color-main-text: #7589a2;
+  --color-unchecked-content: #e0e4e8;
+  --color-checked-content: #193251;
+
+  /*Border and Boxshadows*/
+  --border-radius: 10px;
+  --border: 1px solid #e0e4e8;
+  --border-radius: 10px;
+  --transform: rotate(-90deg);
+
+  --box-shadow: 0px 2px 11px rgba(25, 50, 81, 0.2);
+  --border-radius: 10px;
+  --transform: rotate(-90deg);
+
+  /* Typograhpy */
+}
