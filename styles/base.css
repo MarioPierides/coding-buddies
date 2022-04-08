@@ -14,6 +14,14 @@ h1 {
   color: #193251;
 }
 
+h2 {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 16px;
+}
+
 nav {
   display: flex;
   justify-content: space-around;

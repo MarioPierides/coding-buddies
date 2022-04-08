@@ -1,0 +1,30 @@
+@import url(/styles/variables.css);
+
+.nametag__card {
+  display: grid;
+  grid-template-rows: 1fr 1fr;
+  border: var(--border);
+
+  border-radius: var(--border-radius);
+  box-sizing: border-box;
+  position: relative;
+}
+
+.span__nametag--border-bottom {
+  border-bottom: var(--border);
+}
+
+span {
+  padding: 1rem;
+  display: flex;
+  justify-content: center;
+  color: var(--color-main-text);
+}
+
+.icon {
+  position: absolute;
+  /* top: 45%;
+    
+    left: 50%; */
+  inset: 2.6rem 50%;
+}
