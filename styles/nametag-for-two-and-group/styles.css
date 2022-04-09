@@ -1,5 +1,4 @@
 @import url(/styles/variables.css);
-@import url(/styles/base.css);
 
 .nametag__card {
   display: grid;
@@ -11,13 +10,28 @@
   position: relative;
 }
 
-.span__nametag--border-bottom {
-  border-bottom: var(--border);
-}
-
-span {
+.span__nametag {
   padding: 1rem;
   display: flex;
   justify-content: center;
   color: var(--color-main-text);
+}
+
+.span__nametag--border-bottom {
+  border-bottom: var(--border);
+}
+
+.span_nametag--no-border-bottom {
+  padding: 1rem;
+  display: flex;
+  justify-content: center;
+  color: var(--color-main-text);
+}
+
+.nametag__icon--bluecross {
+  position: absolute;
+  /* top: 45%;
+    
+    left: 50%; */
+  inset: 2.6rem 50%;
 }
