@@ -1,0 +1,27 @@
+@import url(/styles/variables.css);
+
+.journal-card {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  border: 1px solid;
+  border-radius: var(--border-radius);
+  box-shadow: var(--box-shadow);
+}
+
+img {
+  width: 150px;
+}
+
+h5 {
+  color: var(--color-text-elemts-graph);
+}
+
+.motto {
+  color: var(--color-text-elemts-graph);
+}
+
+h6 {
+  color: var(--color-main-text);
+}
