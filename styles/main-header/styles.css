@@ -1,0 +1,19 @@
+@import url(/styles/variables.css);
+
+.main-header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 18px 32px 24px;
+  background-image: url(/images/headerwave.svg),
+    linear-gradient(
+      to top,
+      transparent 15px,
+      var(--background-color-header) 15px
+    );
+  background-size: auto 50px, 100%;
+  background-position: bottom;
+  background-repeat: repeat-x;
+  color: #193251;
+}
