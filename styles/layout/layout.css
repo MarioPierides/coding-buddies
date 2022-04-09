@@ -1,7 +1,7 @@
 .mobile-grid {
   height: 100vh;
   display: grid;
-  grid-template-rows: 56px auto 56px;
+  grid-template-rows: auto 1fr 56px;
 }
 
 .content {

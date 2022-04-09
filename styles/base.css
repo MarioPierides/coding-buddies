@@ -5,16 +5,11 @@
 body {
   margin: 0;
 }
-
 h1 {
-  font-weight: 700;
   font-size: 16px;
-  line-height: 50px;
+  margin: 0;
   text-align: center;
   text-transform: uppercase;
-  margin: 0;
-  background: var(--background-color-header);
-  color: #193251;
 }
 
 h2 {
