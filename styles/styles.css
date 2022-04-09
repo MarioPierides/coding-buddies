@@ -2,3 +2,6 @@
 @import url(/styles/base.css);
 /* components */
 @import url(/styles/layout/layout.css);
+@import url(/styles/main-header/styles.css);
+@import url(/styles/nametag-for-two-and-group/styles.css);
+@import url(/styles/journalcard/);
