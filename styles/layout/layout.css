@@ -7,3 +7,7 @@
 .content {
   overflow-y: auto;
 }
+
+.img__nav--icon {
+  width: 30px;
+}
