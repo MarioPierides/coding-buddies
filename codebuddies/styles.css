@@ -1,8 +1,17 @@
 @import url(/styles/variables.css);
 @import url(/styles/base.css);
+/*@import url(/styles/styles.css);*/
 /* components */
 @import url(/styles/layout/layout.css);
 @import url(/styles/main-header/styles.css);
 @import url(/styles/nametag-for-two-and-group/styles.css);
-
 @import url(/styles/journalcard/style.css);
+
+/* to fix icon in nav  <a> in base.css*/
+
+/* to fix margin from box*/
+
+a .img__nav--icon {
+  margin: 5px;
+  padding: 0px;
+}
